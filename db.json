@@ -1,0 +1,24 @@
+
+{
+    "place": [{
+        "id": 1,
+        "name": "Noms Kopi",
+        "type": "cafe",
+        "latitude": "-6.9778288",
+        "longitude":"110.4470717,17"
+    },
+    {
+        "id": 2,
+        "name": "Moment Coffee & Space",
+        "type": "cafe",
+        "latitude": "-7.020714",
+        "longitude":"110.4102497,17"
+    },
+    {
+        "id": 3,
+        "name": "SALOKA Theme Park",
+        "type": "theme_park",
+        "latitude": "-7.2807262",
+        "longitude":"110.4573652,17"
+    }]
+}
