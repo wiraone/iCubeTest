@@ -1,6 +1,7 @@
 package com.kotlin.wirawan.icubetest.models
 
-data class Place(val id: Int, val name: String, val type: String, val latitude: String, val longitude: String)
+data class PlaceData(val places: List<Place>)
+data class Place(val id: Int, val name: String, val type: String, val price: Int, val latitude: String, val longitude: String)
 
 /**
  * "id": 1,
